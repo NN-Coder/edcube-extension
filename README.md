@@ -1,6 +1,5 @@
-A simple yet effective chrome extension to quickly access the EdCube platform. For more information, check out the main EdCube site at https://github.com/edcubelearning/edcube. This project is developed by @edcubelearning.
-
-For business inquiries, please contact edcubestudios@yahoo.com
+A simple yet effective chrome extension to quickly access the EdCube platform.
+For business inquiries, please contact edcubestudios@gmail.com
 
 To preview this chrome extension, first download a zip of this repository and unzip it. Next, go to chrome://extensions/ in your chrome browser and click the "Developer mode" toggle in the top right corner to enable developer mode. Click "Load unpacked" and select and open the downloaded repository. Pin the extension and then try it out by clicking the extension icon.
 You should see something like this if you have followed all the steps correctly:
